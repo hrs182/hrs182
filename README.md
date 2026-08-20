@@ -97,41 +97,7 @@ Currently exploring deeper into **web development, backend engineering, APIs, da
 
 </div>
 
----
-
-## 🧬 HOW I THINK ABOUT DEVELOPMENT
-
-```text
-                    ┌─────────────────────┐
-                    │       IDEA 💡       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   DESIGN & PLAN 🧠  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    BUILD ⚙️         │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   TEST & DEBUG 🐛   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   DEPLOY 🚀         │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   LEARN → REPEAT ♾️ │
-                    └─────────────────────┘
-```
-
+---  
 ---
 
 <div align="center">
@@ -247,17 +213,6 @@ That experience added another perspective to how I think about software:
 
 ---
 
-<div align="center">
-
-## 📊 THE GITHUB LAB
-
-<img src="https://github-readme-stats.vercel.app/api?username=hrs182&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=CBD5E1" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrs182&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" />
-
-</div>
 
 ---
 
@@ -268,15 +223,15 @@ That experience added another perspective to how I think about software:
 ### Let's build something interesting.
 
 <a href="mailto:hrsh0018@gmail.com">
-📩 **Email**
+📩Email
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://linkedin.com/in/harsh182">
-💼 **LinkedIn**
+💼LinkedIn
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/hrs182">
-🐙 **GitHub**
+🐙GitHub
 </a>
 
 <br/><br/>
